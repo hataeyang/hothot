@@ -43,7 +43,7 @@ object asdasdaxc {
       priceData(i) = priceData(i) - promotionEffect
     }
  println(priceData)
-var a = Array("컵","접시","숟가락","냄비");
+var a = Array("컵","접시","숟가락","냄비","젓");
     var a1 = a.size;
     var b = "kopo_";
     for(i2<-0 to a1){
